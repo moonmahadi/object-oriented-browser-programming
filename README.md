@@ -1,2 +1,3 @@
 # object-oriented-browser-programming
-Description of both execricises
+
+This is repo holds both exercises for object-oriented-browser-programming course.

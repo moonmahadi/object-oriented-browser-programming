@@ -1,0 +1,14 @@
+{
+  "name": "gradedexercise1",
+  "version": "1.0.0",
+  "description": "OOBP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mussa Muna",
+  "license": "MIT",
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}

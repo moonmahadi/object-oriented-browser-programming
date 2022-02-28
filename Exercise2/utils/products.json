@@ -1,0 +1,57 @@
+[{
+    "id": 1,
+    "title": "Air Force",
+    "price": 119.9,
+    "instock": 10,
+    "image": "./img/air.png"
+},
+{
+    "id": 2,
+    "title": "Air Jordan ",
+    "price": 149,
+    "instock": 100,
+    "image": "./img/jordan.png"
+},
+{
+    "id": 3,
+    "title": "Blazer",
+    "price": 109.99,
+    "instock": 5,
+    "image": "./img/blazer.png"
+},
+{
+    "id": 4,
+    "title": "Crater",
+    "price": 129.99,
+    "instock": 30,
+    "image": "./img/crater.png"
+},
+{
+    "id": 5,
+    "title": "Hippie",
+    "price": 99,
+    "instock": 10,
+    "image": "./img/hippie.png"
+},
+{
+    "id": 6,
+    "title": "Blazer",
+    "price": 100,
+    "instock": 15,
+    "image": "./img/blazer2.png"
+},
+{
+    "id": 7,
+    "title": "Hippie",
+    "price": 102,
+    "instock": 40,
+    "image": "./img/hippie2.png"
+},
+{
+    "id": 8,
+    "title": "Crater",
+    "price": 135,
+    "instock": 100,
+    "image": "./img/crater2.png"
+}
+]
